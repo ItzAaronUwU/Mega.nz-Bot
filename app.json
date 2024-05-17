@@ -1,1 +1,9 @@
-
+{
+  "name": "idk",
+  "description": "it does something",
+  "keywords": [
+    "productivity"
+  ],
+  "website": "https://google.com/",
+  "repository": "https://github.com/ItzAaronUwU/Mega.nz-Bot"
+}
